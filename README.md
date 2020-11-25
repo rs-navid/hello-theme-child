@@ -1,2 +1,3 @@
 # hello-theme-child
-hello theme child with persian and english fonts.
+Hello theme child with persian and english fonts for elementor hello theme.
+
